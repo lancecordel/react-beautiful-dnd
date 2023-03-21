@@ -2,8 +2,8 @@ import './App.css';
 import React from 'react';
 import image from "./reactBlog.jpg";
 
-// importing components from another files
-import { ListComponents } from "./ListComponent";
+// importing components from another file
+import { ListComponents } from "./ListComponent"; 
 
 // imports related to DND 
 import { DragDropContext } from 'react-beautiful-dnd';
